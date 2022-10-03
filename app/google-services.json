@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172730638678",
+    "project_id": "deltasoft-64621",
+    "storage_bucket": "deltasoft-64621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172730638678:android:a2affc47e4e994c158b6f7",
+        "android_client_info": {
+          "package_name": "com.petprojects.deltasofttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172730638678-oah7gpg22djg3d6q3n9q3iag9c4n82lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa040pAnonldDzNoPqDeldAR9lQVv-JAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172730638678-oah7gpg22djg3d6q3n9q3iag9c4n82lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
